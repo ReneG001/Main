@@ -101,9 +101,6 @@ header {
   justify-content: center;
   align-items: center;
   align-content: normal;
-
-  background-repeat: no-repeat;
-  background-size: cover;
   color: #fff;
 }
 .container {
@@ -132,7 +129,7 @@ header {
 .container-skills {
   display: flex;
   align-content: space-between;
-  padding: 0 20%;
+  
 }
 .container-skills p {
   padding: 5px;
