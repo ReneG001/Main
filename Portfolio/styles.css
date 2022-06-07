@@ -129,7 +129,14 @@ header {
 .container-story p {
   padding: 5px;
 }
-
+.container-skills {
+  display: flex;
+  align-content: space-between;
+  padding: 0 20%;
+}
+.container-skills p {
+  padding: 5px;
+}
 .left {
   display: flex;
   padding: 25px;
