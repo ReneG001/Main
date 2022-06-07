@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  outline: 0;
+  outline: 0; background: #222;
 }
 h1 {
   font-size: 28px;
@@ -80,13 +80,12 @@ header {
   color: #62cec5;
 }
 
-#hero-section {
+#our_story-section {
   min-height: 550px;
   display: flex;
   justify-content: center;
   align-items: center;
   align-content: normal;
-  background: url(images/bgk-header.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
@@ -94,9 +93,7 @@ header {
   padding-bottom: 50px;
 }
 
-#our_story-section {
-  min-height: 370px;
-}
+
 
 #watch-section {
   min-height: 450px;
